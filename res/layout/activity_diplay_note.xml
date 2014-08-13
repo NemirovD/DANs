@@ -1,0 +1,11 @@
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/noteDisplay"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="top|left"
+    android:textSize="20sp"
+    android:background="@drawable/note_background"
+    android:tileMode="repeat"
+    android:textColor="#FFFFFF"
+    android:inputType="textMultiLine"
+    android:lineSpacingMultiplier="1.45" />

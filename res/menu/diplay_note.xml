@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/add" android:showAsAction="always" android:visible="true" android:enabled="true" android:title="Add New Note" android:icon="@drawable/add"></item>
+    <item android:id="@+id/remove_item" android:title="Delete Note" android:showAsAction="always" android:enabled="true" android:visible="true" android:icon="@drawable/del"></item>
+    
+
+</menu>
